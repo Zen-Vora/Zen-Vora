@@ -10,6 +10,7 @@ I like math and I play chess!
 - [affirmation_adventures](https://github.com/River-Vora/affirmation_adventures)
 - [Shadow Strikers](https://github.com/Zen-Vora/Shadow-Strikers)
 - [Tank Game](https://github.com/Zen-Vora/tankGame)
+- [Don't Go For Broke](https://github.com/Zen-Vora/dont-go-for-broke)
 
 ## Skills
 - **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=forthebadge&logo=java&logoColor=white)
@@ -22,8 +23,8 @@ I like math and I play chess!
 - **My Interests**: Game Development, and App Development.
 
 ## Learning Goals
-- Currently learning: Swift
-- Next: C, C++
+- Currently learning: Swift, C++
+- Next: C
 - Interested in: Collaborating on open-source projects, coding games, and apps.
 
 ## Contact
