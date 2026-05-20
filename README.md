@@ -19,8 +19,8 @@ I like math and I play chess!
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - **Tools**: Git, Github, Tiled, GIMP, Temurin 17 JDK, RealityKit Composer Pro, Simulator.
-- **IDEs**: Visual Studio Code, Intellij IDEA CE, and Visual Studio, Xcode.
-- **My Interests**: Game Development, and App Development.
+- **IDEs**: Visual Studio Code, Intellij IDEA CE, and Visual Studio, Xcode, Webstorm, Cursor, Godot, and Unreal Engine.
+- **My Interests**: Game and App Development.
 
 ## Learning Goals
 - Currently learning: Swift, C++
